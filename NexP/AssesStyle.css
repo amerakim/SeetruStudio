@@ -1,0 +1,544 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar-nav.nav.justify-content-end {
+    margin-left: auto;
+}
+
+.navbar.bg-body-tertiary {
+    background-color: #283787 !important;
+}
+
+
+
+.navbar.bg-body-tertiary .navbar-nav .nav-link {
+    color: white !important;
+}
+
+.navbar.bg-body-tertiary .navbar-brand{
+    color: white;
+}
+
+.custom-Lastnav a {
+    font-weight: bold;
+}
+
+
+.custom-navbar {
+    padding-left: 100px; 
+    padding-right: 100px; 
+}
+
+.yellow-bar {
+    background-color: #EBB437;
+    height: 5px;
+}
+  
+
+ .nav-underline .nav-link {
+    padding: 10px 20px; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #475A76;
+}
+
+.custom-pill {
+    padding-right: 120px; 
+}
+
+  
+
+.custom-jumbotron {
+    background-image: url('yibei-geng--UdYbiywGeg-unsplash.png'); 
+    background-size:cover;
+    margin-right: 0;
+   
+    color: white; 
+}
+
+.custom-abtitle{
+    
+    margin-left: 70px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.custom-titlepo{
+top: 463px;
+position: absolute;
+width: 59px;
+height: 10px;
+}
+
+
+
+.custom-bg {
+    background-color: #475A76; 
+}
+
+.custom-bg .nav-link {
+    color: white;
+}
+
+
+
+.container3{
+    padding-right: 70px;
+    text-align: justify;
+}
+
+.row1{
+    margin-bottom: 20px ;
+    margin-top: 50px;
+   
+}
+
+.thumbnail-container h2 {
+    font-size: 30px;
+    
+    
+}
+
+.thumbnail-container2{
+    margin-left: 170px;
+}
+  
+.thumbnail-container p {
+    font-size: 14px;
+    position: relative;
+    
+}
+
+.custom-pill2{
+    margin-top: -30px;
+}
+
+.custom-tncont .h2{
+    font-weight: bold;
+}
+
+.custom-h5t{
+    background-color: blue;
+    text-align: center;
+    background-size: cover;
+}
+
+.row{
+    margin: 0;
+    padding: 0 ;
+}
+  
+.row2 {
+    position: relative;
+    margin-top: 50px;
+}
+
+.timeline-title {
+    position: absolute;
+    font-weight: light;
+    top: 5%; 
+    left: 11%; 
+    z-index: 1; 
+    color: white; 
+    font-size: 24px; 
+
+    margin: 10px; 
+}
+
+.timepo{
+    position: absolute;
+    top: 35px;
+    left: 150px;
+}
+
+.timeline-subtitle{
+    position: absolute;
+    top: 20%;
+    left: 8.5%;
+    z-index: 1;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+
+.custom-tlimg {
+    width: 100%; 
+    height: 350px; 
+}
+
+.row2 p{
+    padding-right: 15%;
+    text-align: justify;
+    position: absolute;
+    top: 30%;
+    left: 8.5%;
+    z-index: 1;
+    color: white;
+    font-size: 16px;
+}
+
+.row4{
+position: absolute;
+top: 220px;
+left: 140px;
+width: 1640px;
+height: 385px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 5px 15px #5A8AE31C;
+border: 1px solid #E6EFFF;
+border-radius: 15px;
+opacity: 1;
+}
+
+
+.strategic-title{
+margin-left: 450px;
+width: 374px;
+height: 36px;
+font:  600 28px Poppins;
+letter-spacing: 1.3px;
+color: #283887;
+}
+
+.custom-strat{
+    margin-top: 20%;
+    margin-bottom: 100px;
+}
+
+.custom-strat h1{
+    text-align: center;
+}
+
+.stratpara{
+    padding-right: 10%;
+    padding-left: 10%;
+    text-align: center;
+    margin-top:30px;
+    width: 1280px;
+    height: 73px;
+    text-align: center;
+    font: normal normal normal 16px/25px Poppins;
+    letter-spacing: 0.77px;
+    color: #4E4E50;
+    opacity: 1;
+}
+
+.custom-stratpic{
+    margin-left: 250px ;
+    margin-top: 20px;
+    width: 800px;
+    height: 500px;
+}
+
+
+.row5{
+    margin-top: 30px;
+    width: 100%;
+   
+}
+.govdoctitle{
+padding-left: 10%;
+z-index: 1;
+left: 210px;
+width: 500px;
+height: 36px;
+text-align: left;
+font: normal normal 600 26px/102px Poppins;
+color: #283887;
+text-shadow: 0px
+}
+
+.custom-govbg{
+    background-image: url('Mask Group 7@2x.png');
+    background-size:contain;
+    background-repeat:repeat;
+    padding: 30px; 
+}
+
+.govpara{
+padding-left: 10%;
+padding-top: 20px;
+
+height: 25px;
+text-align: left;
+font:  Poppins;
+letter-spacing: 0.77px;
+color: #4E4E50;
+opacity: 1;
+}
+
+  .card-container .card {
+    width:  80%;
+    height: 484px;
+}
+
+.card-text{
+    color: #4E4E50;
+    text-align: justify;
+}
+
+.card-footer {
+    border: none; 
+    color: #4E4E50;
+}
+
+.custom-stratpo{
+position: absolute;
+top: 1700px;
+left:700px ;
+}
+
+.custom-stratpo1{
+    position: absolute;
+    transform: scaleX(-1);
+    top: 1700px;
+    left: 1120px;
+}
+
+.custom-sect{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.custom-sect1{
+    margin-top: 40px;
+    margin-left: -40px;
+}
+
+.custom-sectext{
+    margin-left: -180px;
+    color: #283887;
+    font: normal normal 600 26px/102px Poppins;
+}
+
+.custom-sectpo{
+    position: absolute;
+    top: 3180px;
+    left: 770px;
+}
+
+.sectitle{
+    margin-left: -250px;
+    margin-top: -40px;
+    font-size: 25px;
+    padding-right: 240px;
+    font-weight: bold;
+}
+
+.custom-sectpic{
+    width: 55%;
+}
+
+.custom-sectpara{
+    margin-left: -250px;
+    color: #4E4E50;
+    padding-right: 220px;
+    padding-bottom: 100px;
+    font-size: 15px;
+}
+
+.govpo{
+    position: absolute;
+    left: 120px;
+    margin-top: 40px;
+}
+
+
+.year{
+    padding-top: 10px;
+    font-weight: 500;
+    display: flex;
+    width: 120px;
+    height: 30px;
+    background-color: #283787;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.year1{
+    padding-top: 10px;
+    font-weight: 500;
+    margin-left: -80px;
+    display: flex;
+    width: 120px;
+    height: 30px;
+    background-color: #283787;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.year2{
+    padding-top: 10px;
+    font-weight: 500;
+    margin-left: -160px;
+    display: flex;
+    width: 120px;
+    height: 30px;
+    background-color: #283787;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.custom-formain{
+    margin-left: 150px;
+    margin-bottom: 40px;
+}
+
+.former-title h1{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-size: 28px;
+}
+
+.custom-bello{
+    width: 80%;
+}
+
+.custom-jaseem{
+    width: 80%;
+    margin-left: -80px;
+
+}
+
+.custom-rifaat{
+    width: 80%;
+    margin-left: -160px;
+}
+
+.former-block{
+    justify-content: center;
+    background-color: white;
+    align-items: center;
+    z-index: 1;
+    margin-left: 40px ;
+    margin-top: -50px;
+    width: 260px;
+    height: 100px;
+    box-shadow: 0px 5px 15px #5A8AE31C;
+}
+
+.former-name{
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-bottom: 0;
+    font-size: large;
+}
+
+.former-year{
+    color: #4E4E50;
+    padding-top: 0;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 5px;   
+}
+  
+.custom-news{
+    margin-top: 30px;
+    background-color: #E6EFFF;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    height: 243px;
+}
+
+.custom-newshead{
+    padding-left: 100px;
+    
+}
+
+.custom-newshead h1{
+    font-weight: bold;
+    
+}
+
+.custom-newbtn{
+    padding-right: 50px;}
+
+ .btn-blue{
+    width: 200px;
+    background-color: #283787;
+    color: white;
+    border-radius: 40px;
+}
+
+.custom-form{
+    border-radius: 40px;
+    height: 60px;
+
+}
+ul {
+    list-style-type: none;
+    text-align: left;
+    margin-left: -31px;
+  }
+
+  ul li{
+    color: white;
+  }
+
+  .custom-footbg{
+    background: transparent url('Group 243.svg') 0% 0% no-repeat padding-box;
+opacity: 1;
+  }
+
+  h6{
+    color: white;
+    font-weight: bold;
+  }
+
+  .custom-add{
+    color: white;
+    text-align: left;
+    align-items: center;
+    margin-top: 200px;
+    padding-left: 100px;
+    
+  }
+
+ .custom-footext{
+    color: #4E4E50;
+    font-size: 12px;
+    padding-left: 90px;
+ }
+
+ .custom-cu{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 5px 15px #5A8AE31C;
+    opacity: 1;
+    padding: 50px;
+    width: 1400px;
+    align-items: center;
+    margin-left: 300px;
+    margin-bottom: 100px;
+ }
+
+ .custom-h1{
+    font-size: 24px;
+    color: #1C53BC;
+ }
+
+ .custom-map{
+    width: 500px;
+    height: 400px;
+ }
+
+ .custom-cuform{
+    position: absolute;
+    top: 470px;
+    left: 1000px;
+    width: 500px;
+    color: #475A76;
+    
+ }
+
+ .custom-frmbtn{
+    left: 120px;
+    position: absolute;
+    width: 245px;
+    height: 80px;
+    border-radius: 40px;
+    background-color: #283887 ;
+ }
